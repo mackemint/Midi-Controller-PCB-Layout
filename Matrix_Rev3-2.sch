@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Onsdag 21 Augusti 2013 18:57:07
+EESchema Schematic File Version 2  date Onsdag 21 Augusti 2013 19:38:09
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -233,11 +233,11 @@ Wire Bus Line
 Wire Bus Line
 	2750 2800 3100 2800
 Text Label 2650 2700 0    60   ~ 0
-c1
+c2
 Text Label 3350 2700 0    60   ~ 0
-c1
+c3
 Text Label 3950 2700 0    60   ~ 0
-c1
+c4
 Text Label 1900 1100 0    60   ~ 0
 a1
 Text Label 2650 1100 0    60   ~ 0
@@ -299,7 +299,7 @@ Entry Wire Line
 Text Label 4550 1100 0    60   ~ 0
 a2
 Text Label 4550 2700 0    60   ~ 0
-c2
+c1
 Text Label 9050 1550 0    60   ~ 0
 a[1..4]
 Text Label 6700 950  0    60   ~ 0
@@ -407,9 +407,9 @@ Entry Wire Line
 Text Label 5250 2700 0    60   ~ 0
 c2
 Text Label 6000 2700 0    60   ~ 0
-c2
+c3
 Text Label 6750 2700 0    60   ~ 0
-c2
+c4
 Text Label 5250 1100 0    60   ~ 0
 a2
 Text Label 6000 1100 0    60   ~ 0
@@ -534,11 +534,11 @@ Wire Wire Line
 Wire Wire Line
 	2000 4750 2000 4700
 Text Label 2750 4750 0    60   ~ 0
-c3
+c2
 Text Label 3450 4750 0    60   ~ 0
 c3
 Text Label 4050 4750 0    60   ~ 0
-c3
+c4
 Text Label 2000 3150 0    60   ~ 0
 a3
 Text Label 2750 3150 0    60   ~ 0
@@ -548,7 +548,7 @@ a3
 Text Label 4050 3150 0    60   ~ 0
 a3
 Text Label 2000 4750 0    60   ~ 0
-c3
+c1
 Wire Wire Line
 	3450 4700 3450 4750
 $Comp
@@ -575,7 +575,7 @@ Wire Wire Line
 Text Label 4650 3150 0    60   ~ 0
 a4
 Text Label 4650 4750 0    60   ~ 0
-c4
+c1
 Text Label 7050 4850 0    60   ~ 0
 c[3..4]
 $Comp
@@ -675,9 +675,9 @@ Entry Wire Line
 Entry Wire Line
 	6750 3000 6850 3100
 Text Label 5350 4750 0    60   ~ 0
-c4
+c2
 Text Label 6100 4750 0    60   ~ 0
-c4
+c3
 Text Label 6850 4750 0    60   ~ 0
 c4
 Text Label 5350 3150 0    60   ~ 0
