@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fredag 23 Augusti 2013 23:38:17
+EESchema Schematic File Version 2  date Fredag 23 Augusti 2013 23:38:57
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -823,7 +823,7 @@ Entry Wire Line
 Entry Wire Line
 	5150 5500 5250 5600
 Text Label 800  4800 0    60   ~ 0
-
+row4
 Text Label 3300 4800 0    60   ~ 0
 row4
 Text Label 4100 4800 0    60   ~ 0

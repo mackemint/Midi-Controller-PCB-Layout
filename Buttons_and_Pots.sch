@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fredag 23 Augusti 2013 23:38:57
+EESchema Schematic File Version 2  date Lördag 24 Augusti 2013 20:04:08
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,14 +29,15 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:Matrix_Rev3-2-cache
+LIBS:myLib
+LIBS:Buttons_and_Pots-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "23 aug 2013"
+Date "24 aug 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -822,8 +823,6 @@ Entry Wire Line
 	4350 5500 4450 5600
 Entry Wire Line
 	5150 5500 5250 5600
-Text Label 800  4800 0    60   ~ 0
-
 Text Label 3300 4800 0    60   ~ 0
 row4
 Text Label 4100 4800 0    60   ~ 0
