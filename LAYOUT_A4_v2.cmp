@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-25)-stable date = Måndag 26 Augusti 2013 19:40:48
+Cmp-Mod V01 Created by CvPcb (2013-mar-25)-stable date = Måndag 26 Augusti 2013 19:43:55
 
 BeginCmp
 TimeStamp = /5217C9DC;
@@ -627,7 +627,7 @@ BeginCmp
 TimeStamp = /5217C9D4;
 Reference = RV16;
 ValeurCmp = POT;
-IdModule  = POT_TURN;
+IdModule  = POT_TURN_Lin;
 EndCmp
 
 BeginCmp

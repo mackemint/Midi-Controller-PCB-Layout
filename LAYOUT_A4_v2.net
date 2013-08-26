@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/macke/Documents/Projekt/DroidPad/KiCad/Matrix_Rev4/LAYOUT_A4.sch)
-    (date "Måndag 26 Augusti 2013 16:16:19")
+    (date "Måndag 26 Augusti 2013 16:22:01")
     (tool "eeschema (2013-mar-25)-stable"))
   (components
     (comp (ref ROWS1)
