@@ -1,10 +1,5 @@
-update=Måndag 26 Augusti 2013 19:44:20
-last_client=pcbnew
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+update=Söndag 01 September 2013 10:30:48
+last_client=cvpcb
 [pcbnew]
 version=1
 LastNetListRead=LAYOUT_A4_v2.net
@@ -24,7 +19,6 @@ DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.3
 [pcbnew/libraries]
-LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -42,3 +36,9 @@ LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
 LibName17=Library/Potentiometres
+LibDir=
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms

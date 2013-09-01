@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-25)-stable date = Söndag 01 September 2013 01:37:06
+Cmp-Mod V01 Created by CvPcb (2013-mar-25)-stable date = Söndag 01 September 2013 10:32:18
 
 BeginCmp
 TimeStamp = /5217C9DC;
@@ -389,7 +389,7 @@ BeginCmp
 TimeStamp = /52222394;
 Reference = IOIO1;
 ValeurCmp = ATMEGA88-A;
-IdModule  = TQFP32;
+IdModule  = IOIO;
 EndCmp
 
 BeginCmp
